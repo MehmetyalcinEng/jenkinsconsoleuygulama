@@ -1,0 +1,8 @@
+C:\Users\MehmetYalcin\source\repos\jenkinsConsole\jenkinsConsole\bin\Debug\jenkinsConsole.exe.config
+C:\Users\MehmetYalcin\source\repos\jenkinsConsole\jenkinsConsole\bin\Debug\jenkinsConsole.exe
+C:\Users\MehmetYalcin\source\repos\jenkinsConsole\jenkinsConsole\bin\Debug\jenkinsConsole.pdb
+C:\Users\MehmetYalcin\source\repos\jenkinsConsole\jenkinsConsole\obj\Debug\jenkinsConsole.csproj.AssemblyReference.cache
+C:\Users\MehmetYalcin\source\repos\jenkinsConsole\jenkinsConsole\obj\Debug\jenkinsConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\MehmetYalcin\source\repos\jenkinsConsole\jenkinsConsole\obj\Debug\jenkinsConsole.csproj.CoreCompileInputs.cache
+C:\Users\MehmetYalcin\source\repos\jenkinsConsole\jenkinsConsole\obj\Debug\jenkinsConsole.exe
+C:\Users\MehmetYalcin\source\repos\jenkinsConsole\jenkinsConsole\obj\Debug\jenkinsConsole.pdb
